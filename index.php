@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <?php
         // put your code hdgfshdfhdfghdcfghere
+        // put your code hdgfshdfhdfghdcfghere
+        // put your code hdgfshdfhdfghdcfghere
+        // put your code hdgfshdfhdfghdcfghere
         ?>
     </body>
 </html>
